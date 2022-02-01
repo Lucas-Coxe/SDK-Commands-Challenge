@@ -15,3 +15,6 @@ These commands are useful in writing C# code.
 -[test](<(https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-test)>) 
 -[publish](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-publish) 
 -[clean]((https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-clean)
+
+
+# This was a succesful group project
